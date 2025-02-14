@@ -7,6 +7,7 @@ class Main {
 
     // add two numbers
     int sum = first + second;
+    int min = second - first;
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
