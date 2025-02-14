@@ -9,5 +9,6 @@ class Main {
     int sum = first + second;
     int min = second - first;
     System.out.println(first + " + " + second + " = "  + sum);
+    System.out.println(second + " - " + first + " = "  + min);
   }
 }
